@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # 1. HYPERPARAMETERS (Dễ dàng thay đổi để thử nghiệm)
 # ---------------------------------------------------------
 batch_size = 64
-learning_rate = 1e-2
+learning_rate = 1e-3
 epochs = 10
 
 # Danh sách 10 lớp nhãn của FashionMNIST
